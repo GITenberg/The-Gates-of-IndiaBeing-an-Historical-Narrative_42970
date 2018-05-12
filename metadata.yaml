@@ -1,0 +1,27 @@
+_repo: The-Gates-of-IndiaBeing-an-Historical-Narrative_42970
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holdich, Thomas Hungerford, Sir
+    birthdate: 1843
+    deathdate: 1929
+    gutenberg_agent_id: '41957'
+    url: http://www.gutenberg.org/2009/agents/41957
+description: ''
+gutenberg_issued: '2013-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balochistan (Pakistan) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Afghanistan -- Description and travel'
+title: 'The Gates of India: Being an Historical Narrative'
+url: http://www.gutenberg.org/ebooks/42970
